@@ -1,3 +1,3 @@
 # Edabit
 
-Edabit Solutions
+In this repo there are Edabit solutions!
